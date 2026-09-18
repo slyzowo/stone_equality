@@ -1,5 +1,5 @@
 # stone_equality
-Allows for most stones to be used in cobblestone crafting recipes
+Allows for most stones to be used in cobblestone crafting recipes.
 
 ### Explanation
 Allows most stones to be used in cobblestone crafting recipes like : 
@@ -25,3 +25,6 @@ Allows most stones to be used in cobblestone crafting recipes like :
 - granite
 - tuff
 - stone
+
+# License
+[MIT](https://choosealicense.com/licenses/mit/)
