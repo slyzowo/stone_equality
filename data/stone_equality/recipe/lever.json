@@ -1,0 +1,17 @@
+{
+	"type": "crafting_shaped",
+	
+	"category": "equipment",
+
+	"key": {
+		"S" : "minecraft:stick",
+		"#" : "#stone_equality:stones_for_recipes"
+	},
+
+	"pattern": [
+		"S",
+		"#"
+	],
+
+	"result": "minecraft:lever"
+}

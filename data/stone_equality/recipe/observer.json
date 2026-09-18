@@ -1,0 +1,19 @@
+{
+	"type": "crafting_shaped",
+	
+	"category": "misc",
+
+	"key": {
+		"#" : "#stone_equality:stones_for_recipes",
+		"R" : "minecraft:redstone",
+		"Q" : "minecraft:quartz"
+	},
+
+	"pattern": [
+		"###",
+		"RRQ",
+		"###"
+	],
+
+	"result": "minecraft:observer"
+}

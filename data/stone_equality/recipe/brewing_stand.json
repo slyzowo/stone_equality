@@ -1,0 +1,17 @@
+{
+	"type": "crafting_shaped",
+	
+	"category": "misc",
+
+	"key": {
+		"#" : "#stone_equality:stones_for_recipes",
+		"B" : "minecraft:blaze_rod"
+	},
+
+	"pattern": [
+		" B ",
+		"###"
+	],
+
+	"result": "minecraft:brewing_stand"
+}

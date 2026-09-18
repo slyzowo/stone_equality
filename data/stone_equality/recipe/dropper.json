@@ -1,0 +1,18 @@
+{
+	"type": "crafting_shaped",
+	
+	"category": "misc",
+
+	"key": {
+		"#" : "#stone_equality:stones_for_recipes",
+		"R" : "#stone_equality:stones_for_recipes"
+	},
+
+	"pattern": [
+		"###",
+		"# #",
+		"#R#"
+	],
+
+	"result": "minecraft:dropper"
+}

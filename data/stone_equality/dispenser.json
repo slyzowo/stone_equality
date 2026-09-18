@@ -1,0 +1,19 @@
+{
+	"type": "crafting_shaped",
+	
+	"category": "misc",
+
+	"key": {
+		"#" : "#stone_equality:stones_for_recipes",
+		"B" : "minecraft:bow",
+		"R" : "minecraft:redstone"
+	},
+
+	"pattern": [
+		"###",
+		"#B#",
+		"#R#"
+	],
+
+	"result": "minecraft:dispenser"
+}
