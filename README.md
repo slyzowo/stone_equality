@@ -13,7 +13,7 @@ Allows most stones to be used in cobblestone crafting recipes like :
 - Observer
 - Piston
 
-### Stones in the recipe
+### Stones allowed in the recipe
 - andesite
 - basalt
 - blackstone
